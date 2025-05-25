@@ -3,6 +3,7 @@
 An AI-powered full-stack application to automatically convert educational videos/ podcasts into MCQs using transcript generation and LLM-based question synthesis.
 
 ## 🎥 Video Demos
+[![Watch the video](https://drive.google.com/file/d/1YN1qNCLN3at_BNTfmGcDZV8vU8cKAAZo/view?usp=drivesdk)
 
 ### 🔹 Output Samples
 - [Mountain_ranges_india_geography_generated_MCQs](videos_and_results/output_samples/mountain_ranges_mcq_generattion_hindi_audio_to_english_mcq.mp4)
