@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+httpx
+pydantic
+ollama
+typing
+asyncio
+uuid
+tenacity

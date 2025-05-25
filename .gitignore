@@ -1,0 +1,3 @@
+server/node_modules
+client\video_mcq_fe\node_modules
+pyservice\app\__pycache__
