@@ -5,7 +5,7 @@ An AI-powered full-stack application to automatically convert educational videos
 ## 🎥 Video Demos
 
 ### 🔹 Output Samples
-- [Mountain_ranges_india_geography_generated_MCQs](videos_and_results\output_samples\mountain_ranges_mcq_generattion_hindi_audio_to_english_mcq.mp4)
+- [Mountain_ranges_india_geography_generated_MCQs](videos_and_results/output_samples/mountain_ranges_mcq_generattion_hindi_audio_to_english_mcq.mp4)
 - [Wildfire Video Generated MCQs](videos_and_results/output_samples/wildfire_video_generated_mcqs.mp4)
 - [JS Lecture Transcript + MCQ](videos_and_results/output_samples/transcript_for_js_lecture_as_well_mcq_processing.mp4)
 - [MongoDB Entries with MCQs](videos_and_results/output_samples/mongo_database_entries_with_transcripts_and_mcqs.mp4)
