@@ -2,6 +2,20 @@
 
 An AI-powered full-stack application to automatically convert educational videos/ podcasts into MCQs using transcript generation and LLM-based question synthesis.
 
+## 🎥 Video Demos
+
+### 🔹 Output Samples
+- [Wildfire Video Generated MCQs](videos_and_results/output_samples/wildfire_video_generated_mcqs.mp4)
+- [JS Lecture Transcript + MCQ](videos_and_results/output_samples/transcript_for_js_lecture_as_well_mcq_processing.mp4)
+- [MongoDB Entries with MCQs](videos_and_results/output_samples/mongo_database_entries_with_transcripts_and_mcqs.mp4)
+- [India Mountain Ranges Explained](videos_and_results/output_samples/india_mountain_ranges_explained..mp4)
+
+### 🔹 Input Videos
+- [Mountain Ranges of India](videos_and_results/input_videos/All%20Important%20Mountain%20Ranges%20of%20India%20in%201%20Video%20_%20SMART%20Revision%20through%20Animation%20_%20UPSC%202023-24.mp4)
+- [JavaScript Promises in 10 Minutes](videos_and_results/input_videos/JavaScript%20Promises%20In%2010%20Minutes.mp4)
+- [Canadian Wildfires (June 2023)](videos_and_results/input_videos/20230607_me_canadian_wildfires.mp4) (audio only .mp4 file for fast mcq generation.)
+
+
 ## 🚀 Tech Stack
 
 ### 🖥️ Frontend
